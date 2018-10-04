@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman:400,700|Open+Sans:400,700');
+
+/*
+	font-family: 'Charmonman', cursive;
+	font-family: 'Open Sans', sans-serif;
+*/
+
+body {
+	font-size: 18px;
+	line-height: 2;
+}
+
+/* font pairing 1 */
+.post .post-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.1em;
+}
+
+.post .post-info {
+	font-family: 'Charmonman', cursive;
+	font-size: 0.8em;
+	color: gray;
+}
+
+.post .post-author {
+	color: blue;
+}
+
+.post .post-date {
+	font-weight: 700;
+}
+
+/* font pairing 2 */
+
+
+
+
+
+
+
